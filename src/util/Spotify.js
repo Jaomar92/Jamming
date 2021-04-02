@@ -1,7 +1,7 @@
 
 
-const clientId = '9c60eac77e1c4526b6fd0ca5ca98c52d';
-const redirectUri = "http://tenuous-basket.surge.sh";
+const clientId = //Add your api key here;
+const redirectUri = //put your local hose or preferred domain here;
 
 let accessToken;
 
